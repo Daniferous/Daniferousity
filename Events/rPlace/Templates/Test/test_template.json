@@ -1,0 +1,15 @@
+{
+    "contact": "https://github.com/Daniferous",
+    "templates":
+    [  
+        {
+            "name": "Test",
+            "sources": 
+            [
+                "https://github.com/Daniferous/Daniferousity/blob/main/Events/rPlace/Templates/Test/2023-template-day-3-colors1.png"
+            ],
+            "x": 0,
+            "y": 0
+        }
+    ]
+}
