@@ -1,0 +1,34 @@
+{
+    "contact": "https://github.com/Daniferous",
+    "notes": "Subject to change.",
+    "templates":
+    [  
+        {
+            "name": "Template 1 - Archon Faces",
+            "sources": 
+            [
+                "https://daniferous.github.io/Daniferousity/Events/rPlace/Templates/TGP/place24-draft-1.png"
+            ],
+            "x": 0,
+            "y": -500
+        },
+        {
+            "name": "Template 2 - Archon Eyes",
+            "sources": 
+            [
+                "https://daniferous.github.io/Daniferousity/Events/rPlace/Templates/TGP/place24-draft-2.png"
+            ],
+            "x": 0,
+            "y": -350
+        },
+        {
+            "name": "Template 3 - Archon Picnic",
+            "sources": 
+            [
+                "https://daniferous.github.io/Daniferousity/Events/rPlace/Templates/TGP/place24-draft-3.png"
+            ],
+            "x": 0,
+            "y": -200
+        }
+    ]
+}

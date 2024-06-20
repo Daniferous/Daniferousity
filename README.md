@@ -2,7 +2,9 @@
  Main Landing Page for all things from Danie <3
 
 ## Templates!!!
- 
+ Right click on the template name and copy the URL then paste onto a template manager.
+1. r/Place 2024 Template for The Genshin Place *Coming soon*
+2. r/Place 2024 Template for Black MIDI Place *Unavailable*
 
 ## Danie's Lab
  Here you find random experiments and whatnot
@@ -16,4 +18,4 @@
 3. [Modded MIDIParser - Latest](https://github.com/danify/MidiParser/releases/tag/build-24.03.15)
 4. [Python Converted MIDI Splitter](https://github.com/danify/PythonConvertedMIDISplitter)
 
-(There is nothing here... yet!)
+(There is nothing else here... yet!)
