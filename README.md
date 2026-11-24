@@ -16,7 +16,7 @@
  ### Eden's Powerlines Stuff (Props Mod) - for Forge 1.20.1
  A mod about adding props for (probably) realistic powerlines in Minecraft. Does not contain conducting wires, though there are wires in this mod.
 
- **Current Version: 2.2.3**
+ **Current Version: 2.2.5**
 
  Learn more about the mod and download [here](https://daniferous.github.io/Daniferousity/EdensPowerlinesStuff).
 

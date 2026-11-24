@@ -109,7 +109,7 @@ As for updating to certain versions, it may take some time to port  custom asset
 
 > Only download one version or the other. Downgrading can and will cause issues and corruption.
 
-* Download Latest: [Version 2.2.4](https://github.com/Daniferous/Daniferousity/tree/main/EdensPowerlinesStuff/release/1.20.1/edens_powerlines_stuff-2.2.4-forge-1.20.1.jar)
+* Download Latest: [Version 2.2.5](https://github.com/Daniferous/Daniferousity/tree/main/EdensPowerlinesStuff/release/1.20.1/edens_powerlines_stuff-2.2.5-forge-1.20.1.jar)
 * Download Legacy: [Version 1.6.2](https://github.com/Daniferous/Daniferousity/tree/main/EdensPowerlinesStuff/release/1.20.1/edens_powerlines_stuff-1.6.2-forge-1.20.1.jar)
 
 ### Forge 1.18.2
@@ -140,6 +140,10 @@ As for updating to certain versions, it may take some time to port  custom asset
 > However, if you must use this mod, then I suggest using Forge with Sinytra Connector to allow Fabric Mods in your Forge Instance.
 
 ## Changelogs
+
+### Release 2.2.5
+- Angled Insulators can now be placed on the floor or ceiling if looking straight down or up, respectively
+- Added Secondary Transformer Bushings which accommodate both LV and Level 1 MV tiers.
 
 ### Release 2.2.4
 - Angled Insulators can now be placed facing left and right at 45 degrees.
