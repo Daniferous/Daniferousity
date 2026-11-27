@@ -109,7 +109,7 @@ As for updating to certain versions, it may take some time to port  custom asset
 
 > Only download one version or the other. Downgrading can and will cause issues and corruption.
 
-* Download Latest: [Version 2.2.5](https://github.com/Daniferous/Daniferousity/tree/main/EdensPowerlinesStuff/release/1.20.1/edens_powerlines_stuff-2.2.5-forge-1.20.1.jar)
+* Download Latest: [Version 2.2.6](https://github.com/Daniferous/Daniferousity/tree/main/EdensPowerlinesStuff/release/1.20.1/edens_powerlines_stuff-2.2.6-forge-1.20.1.jar)
 * Download Legacy: [Version 1.6.2](https://github.com/Daniferous/Daniferousity/tree/main/EdensPowerlinesStuff/release/1.20.1/edens_powerlines_stuff-1.6.2-forge-1.20.1.jar)
 
 ### Forge 1.18.2
@@ -140,6 +140,9 @@ As for updating to certain versions, it may take some time to port  custom asset
 > However, if you must use this mod, then I suggest using Forge with Sinytra Connector to allow Fabric Mods in your Forge Instance.
 
 ## Changelogs
+
+### Release 2.2.6
+- Fixed an issue that caused floating point precision errors when rendering wires.
 
 ### Release 2.2.5
 - Angled Insulators can now be placed on the floor or ceiling if looking straight down or up, respectively
